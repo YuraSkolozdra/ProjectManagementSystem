@@ -1,2 +1,2 @@
 # ProjectManagementSystem
-System - designing for assigning projects between employees.
+System - designing for assigning projects to employees.
